@@ -17,9 +17,10 @@
   
 - 🌱 I’m currently learning ...
       
-        R-Studio(how to anyalze, visualize, and Documented data sets)
+        R-Studio(how to anyalze, visualize, and Documented data sets).
         Tableau(for Data viz).
       
 - 📫 How to reach me: ...
+
          Email: samadali230@gmail.com
          LinkedIn: https://www.linkedin.com/in/samad-ali
