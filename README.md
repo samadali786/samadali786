@@ -23,4 +23,3 @@
 - 📫 How to reach me: ...
       -) Email: samadali230@gmail.com
       -) LinkedIn: https://www.linkedin.com/in/samad-ali
--->
