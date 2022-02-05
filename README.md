@@ -1,7 +1,7 @@
 ### Hi there below is summary about me and the projects I worked on👋
 
 
- -🙂 About me ...
+   -🙂 About me ...
       
          I am a Software Developer, I graduated from UTSA in Dec-2018 in Computer Science concentration in Software Engineering 
          I have a good understanding of Java Programming using Eclipse, netbeens, Springboot(framework), and also know how to work with 
