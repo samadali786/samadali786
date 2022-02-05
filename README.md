@@ -10,16 +10,16 @@
 
  - 🔭 Projects that I worked on ...
     
-     -) Secure Messaging App(team prject from UTSA using Android Studio and Java programming)
-     -) Breakout game layout(team project from UTSA using Eclipse IDE and Java programming)
-     -) Google Professional Data Anlytics case study(using R-Studio, Tableau, and Spreadsheet)
+     1) Secure Messaging App(team prject from UTSA using Android Studio and Java programming)
+     2) Breakout game layout(team project from UTSA using Eclipse IDE and Java programming)
+     3) Google Professional Data Anlytics case study(using R-Studio, Tableau, and Spreadsheet)
   
   
 - 🌱 I’m currently learning ...
       
-      -) R-Studio(how to anyalze, visualize, and Documented data sets)
-      -) Tableau(for Data viz).
+        R-Studio(how to anyalze, visualize, and Documented data sets)
+        Tableau(for Data viz).
       
 - 📫 How to reach me: ...
-      -) Email: samadali230@gmail.com
-      -) LinkedIn: https://www.linkedin.com/in/samad-ali
+         Email: samadali230@gmail.com
+         LinkedIn: https://www.linkedin.com/in/samad-ali
