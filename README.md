@@ -10,9 +10,9 @@
 
  - 🔭 Projects that I worked on ...
     
-      1. Secure Messaging App(team prject from UTSA using Android Studio and Java programming)
-      2. Breakout game layout(team project from UTSA using Eclipse IDE and Java programming)
-      3. Google Professional Data Anlytics case study(using R-Studio, Tableau, and Spreadsheet)
+         Secure Messaging App(team prject from UTSA using Android Studio and Java programming).
+         Breakout game layout(team project from UTSA using Eclipse IDE and Java programming).
+         Google Professional Data Anlytics case study(using R-Studio, Tableau, and Spreadsheet).
   
   
 - 🌱 I’m currently learning ...
