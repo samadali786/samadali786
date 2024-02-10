@@ -11,6 +11,7 @@
          • Good at troubleshooting issues related to Windows OS.
 
  - 🔭 Certifications and Projects that I did ...
+   
         • OWASP WebGoat Project (Open-source project by OWASP on how to secure web applications currently working).
         • CompTIA Security+ certified.
         • Google Cybersecurity certification portfolio (Incident Report Analysis using NIST framework, using Wireshark for Network Packet Analyzing, Linux CLI for (file management, and permissions), Incident 
