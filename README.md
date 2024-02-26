@@ -7,8 +7,9 @@
          • Recently moved into the field of Cybersecurity, having good understanding of identifying threats and vulnerabilities, incident escalation and response, NIST framework (RMF, CSF), and use of SIEM tools Wireshark, Tcpdump for network packet 
            analyzing that I learned in my Google Cybersecurity certification program. I am also a CompTIA Security+ certified in this certification I get more in depth practical and technical understanding of how to secure systems, and networks (LAN, WAN) 
            from ongoing network and social engineering attacks.
-         • Good understanding of Data Analytic process (organize, analyze, and visualize data sets) using SQL, R-programming, and Tableau that I learned in my Google Data Analytics Professional certification.
-         • Good at troubleshooting issues related to Windows OS.
+         • Good understanding of Data Analytic process (organize, analyze, and visualize data sets) using SQL, R-programming, and Tableau that I learned in my Google Data Analytics Professional certification, as well as I also have understanding of 
+           Microsoft (Active Directory, Azure Active Directory) services..
+         • Good at troubleshooting issues related to hardware (CPU’s, GPU’s, RAM’s, system boards) and software related to Windows and Linux OS.
 
  - 🔭 Certifications and Projects that I did ...
    
