@@ -12,8 +12,8 @@
          • Good at troubleshooting issues related to hardware (CPU’s, GPU’s, RAM’s, system boards) and software related to Windows and Linux OS.
 
  - 🔭 Certifications and Projects that I did ...
-   
-        • OWASP WebGoat Project (Open-source project by OWASP on how to secure web applications currently working).
+        • Let's defend (SOC Analyst Learning Path).
+        • OWASP WebGoat Project (Open-source project by OWASP on how to secure web applications).
         • CompTIA Security+ certified.
         • Google Cybersecurity certification portfolio (Incident Report Analysis using NIST framework, using Wireshark for Network Packet Analyzing, Linux CLI for (file management, and permissions), Incident 
           handle Journal, and how to use playbooks in security incidents).
