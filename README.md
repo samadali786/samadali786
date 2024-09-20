@@ -26,7 +26,8 @@
   
 - 🌱 I’m currently learning ...
       
-        • In depth understanding of Cybersecurity frameworks and tools(Wireshark, Tcpdump, Linux CLI, Splunk) and how to secure the network(monitoring network traffic), endpoints, and data from unauthorized access.
+        • In depth understanding of Cybersecurity frameworks, malware static and dynamic analysis, using tools like (Wireshark, Tcpdump, Linux CLI, Splunk, VirusTotal, Process Monitor, VirtualBox), and how to secure the network(monitoring network
+          traffic), endpoints, and data from unauthorized access.
       
 - 📫 How to reach me: ...
 
