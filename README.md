@@ -21,6 +21,7 @@
            environment, I am also good at troubleshooting tasks related to hardware and software issues.
 
  - 🔭 Certifications and Projects that I did ...
+
         • Let's defend (Incident Responder Path).
         • Let's defend (Malware Analysis Skill Path).
         • Let's defend (SOC Analyst Learning Path).
