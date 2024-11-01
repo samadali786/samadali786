@@ -3,16 +3,25 @@
 
    -🙂 About me ...
    
-         • Computer Science graduate having experience working as an Associate Software Engineer, with a good understanding of working with Java technology, (RDBMS) Databases, MySQL, SQL Server as a Back-End development.
-         • Recently moved into the field of Cybersecurity, having good understanding of identifying threats and vulnerabilities, incident escalation and response, NIST framework (RMF, CSF), and use of SIEM tools Wireshark, Tcpdump for network packet 
-           analyzing that I learned in my Google Cybersecurity certification program. I am also a CompTIA Security+ certified in this certification I get more in depth practical and technical understanding of how to secure systems, and networks (LAN, WAN) 
-           from ongoing network and social engineering attacks.
-         • Good understanding of Data Analytic process (organize, analyze, and visualize data sets) using SQL, R-programming, and Tableau that I learned in my Google Data Analytics Professional certification, as well as I also have understanding of 
-           Microsoft (Active Directory, Azure Active Directory) services..
-         • Good at troubleshooting issues related to hardware (CPU’s, GPU’s, RAM’s, system boards) and software related to Windows and Linux OS.
+          • The University of Texas at San Antonio Computer Science alumni has experience working as an
+            Associate Software Engineer, with a good understanding of working with Java technology, in a Front-
+            End and Back-End work environment of software development, as well as a good understanding of
+            data analytic process by organize, analyze, and visualize data sets using database tools (MS Excel, MS
+            SQL Server, R-studio, Tableau).
+
+         • Recently moved into the field of Cybersecurity, having a good understanding of identifying threats
+           and vulnerabilities, malware analysis, incident and response process by using NIST framework (RMF,
+           CSF), use of SIEM tools (Splunk), and network packet analyzer tools (Wireshark, Tcpdump) that I
+           learned in my Google Cybersecurity certification program. I am also a CompTIA Security+ certified
+           in this certification program I got more technical understanding of how to secure systems, and
+           networks (LAN, WAN) from ongoing network and social engineering attacks. Moreover, I also
+           completed Lets’ Defend blue team training paths (SOC Analyst, Malware Analysis, and Incident
+           Responder), these paths practically trained me how to use SOC Analyst tools, and how to solve alert
+           tickets using an interactive SIEM dashboard similar to the SIEM dashboard use in SOC Analysts work
+           environment, I am also good at troubleshooting tasks related to hardware and software issues.
 
  - 🔭 Certifications and Projects that I did ...
-
+        • Let's defend (Incident Responder Path).
         • Let's defend (Malware Analysis Skill Path).
         • Let's defend (SOC Analyst Learning Path).
         • OWASP WebGoat Project (Open-source project by OWASP on how to secure web applications).
