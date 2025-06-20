@@ -35,12 +35,14 @@
         • CompTIA Security+ certified.
         • Google Cybersecurity certification.
         
-- 🔭 Projects...
-
-        • Google Cybersecurity certification portfolio (Incident Report Analysis using NIST framework, using Wireshark for Network Packet Analyzing, Linux CLI for (file management, and permissions), Incident 
-          handle Journal, and how to use playbooks in security incidents).
+- 🔭 Projects..
+        • Traffic Analysis of Malicious file downloaded from Fake Software Site (Wireshark, PowerShell).
+        • Network Packet Analysis with Wireshark and DeepSeek AI (Wireshark, DeepSeek AI).
+        • Decrypt and Analyze malicious HTTPS and TLS network traffic in Wireshark (Wireshark, VirusTotal, Malware Analysis).
         • Static and Dynamic Malware Analysis project (using virtual sandbox environment).
         • OWASP WebGoat Project (open-source securing web application project by OWASP).
+        • Google Cybersecurity certification portfolio (Incident Report Analysis using NIST framework, using Wireshark for Network Packet Analyzing, Linux CLI for (file management, and permissions), Incident 
+          handle Journal, and how to use playbooks in security incidents).
         • Secure Messaging App team project creating User Interface (Java, MVC, Android Studio).
       
 
