@@ -36,6 +36,7 @@
         • Google Cybersecurity certification.
         
 - 🔭 Projects..
+  
         • Traffic Analysis of Malicious file downloaded from Fake Software Site (Wireshark, PowerShell).
         • Network Packet Analysis with Wireshark and DeepSeek AI (Wireshark, DeepSeek AI).
         • Decrypt and Analyze malicious HTTPS and TLS network traffic in Wireshark (Wireshark, VirusTotal, Malware Analysis).
