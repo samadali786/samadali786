@@ -25,7 +25,7 @@
         and response processes, and how to perform reporting and communication of different types of
         vulnerabilities and incidents using reactive approach.
 
- - 🔭 Certifications Projects ...
+ - 🔭 Certifications...
 
         • CompTIA CySA+ certified.
         • Let's defend (SIEM Engineer Path).
