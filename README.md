@@ -37,6 +37,7 @@
         
 - 🔭 Projects..
   
+        • Reverse TCP shell between Attacker and Target Virtual Machines for Malware Analysis.
         • Vulnerability Management using Nessus vulnerability scanner (Nessus). 
         • Traffic Analysis of Malicious file downloaded from Fake Software Site (Wireshark, PowerShell).
         • Network Packet Analysis with Wireshark and DeepSeek AI (Wireshark, DeepSeek AI).
