@@ -36,7 +36,8 @@
         • Google Cybersecurity certification.
         
 - 🔭 Projects..
-  
+
+        • How to use Burp Suite with DVWA Vulnerable Web Application (Burp Suite, DVWA vulnerable web application).
         • Reverse TCP shell between Attacker and Target Virtual Machines for Malware Analysis (Nmap, Metasploit Framework).
         • Vulnerability Management using Nessus vulnerability scanner (Nessus). 
         • Traffic Analysis of Malicious file downloaded from Fake Software Site (Wireshark, PowerShell).
