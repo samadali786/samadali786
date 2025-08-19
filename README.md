@@ -53,8 +53,7 @@
   
 - 🌱 Currently learning ...
       
-        • Currently I am learning more in-depth understanding of Cybersecurity frameworks, malware static and dynamic analysis, Network packet analyzing, Network enumeration, and how to read, analyzing and correlate Endpoints, Network, and
-          Application logs in SIEM. 
+        • Currently I am learning more in-depth understanding of Cybersecurity frameworks, static and dynamic malware analysis, Network security, log analysis and mangement in SIEM, vulnerability management, and web application security. 
       
 - 📫 How to reach me: ...
 
